@@ -1,0 +1,3 @@
+# ObserverAutowirePrimary
+ObserverAutowirePrimary.
+Training project.
